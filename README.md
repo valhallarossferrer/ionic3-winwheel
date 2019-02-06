@@ -5,7 +5,7 @@
 [DEMO](http://www.kizoa.com/Movie-Video-Slideshow-Maker/d247873192k1307137o1l1/demo)
 
  ## App Preview
- <img src="https://www.kizoa.com/embed-247873192-1307137o6l999999?raw=true" alt="Preview">
+ <img src="https://media.giphy.com/media/4TxeUYMVvprgdJj0h2/200w_d.gif" alt="Preview">
 
  ## Running
  * Clone this repository: `https://github.com/valhallarossferrer/ionic3-winwheel.git`.
