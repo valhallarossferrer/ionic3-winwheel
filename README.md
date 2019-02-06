@@ -2,10 +2,10 @@
 # ionic3-chat
  ionic3 chat example
 
-[DEMO](http://www.kizoa.com/Movie-Video-Slideshow-Maker/d247873192k1307137o1l1/demo)
+[DEMO](https://media.giphy.com/media/fscpljCW10LbmiSVdL/source.mp4)
 
  ## App Preview
- <img src="https://media.giphy.com/media/4TxeUYMVvprgdJj0h2/200w_d.gif" alt="Preview">
+ <img src="https://media.giphy.com/media/fscpljCW10LbmiSVdL/200w_d.gif" alt="Preview">
 
  ## Running
  * Clone this repository: `https://github.com/valhallarossferrer/ionic3-winwheel.git`.
