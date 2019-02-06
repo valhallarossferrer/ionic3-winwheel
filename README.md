@@ -4,6 +4,11 @@
 
 [DEMO](http://www.kizoa.com/Movie-Video-Slideshow-Maker/d247873192k1307137o1l1/demo)
 
+ ## App Preview
+ <img src="http://www.kizoa.com/Movie-Video-Slideshow-Maker/d247873192k1307137o1l1/demo" alt="Preview">
+
+
+
  ## Running
  * Clone this repository: `https://github.com/valhallarossferrer/ionic3-winwheel.git`.
  * Run `npm install` from the project root.
