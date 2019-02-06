@@ -5,8 +5,7 @@
 [DEMO](http://www.kizoa.com/Movie-Video-Slideshow-Maker/d247873192k1307137o1l1/demo)
 
  ## App Preview
- <img src="http://www.kizoa.com/Movie-Video-Slideshow-Maker/d247873192k1307137o1l1/demo" alt="Preview">
-
+ <img src="http://www.kizoa.com/embed-247873192-1307137o1l1" alt="Preview">
 
 
  ## Running
