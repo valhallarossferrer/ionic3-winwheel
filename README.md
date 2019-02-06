@@ -6,7 +6,7 @@
 
  ## App Preview
  <img src="http://www.kizoa.com/embed-247873192-1307137o1l1" alt="Preview">
-
+<iframe id="mediaContent" frameborder="0" src="https://www.kizoa.com/embed-247873192-1307137o6l999999?autoplay=1" class="uk-align-center" webkitallowfullscreen="true" allowfullscreen="true" mozallowfullscreen="true" width="800" height="600" style="margin-top: 10px; margin-bottom: 10px;"></iframe>
 
  ## Running
  * Clone this repository: `https://github.com/valhallarossferrer/ionic3-winwheel.git`.
